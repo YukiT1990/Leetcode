@@ -53,3 +53,5 @@ No.| Problem Number | Problem Title
 48.|205            | Isomorphic Strings
 49.|2              | Add Two Numbers
 50.|3              | Longest Substring Without Repeating Characters
+51.|4              | Median of Two Sorted Arrays
+52.|295            | Find Median from Data Stream
