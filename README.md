@@ -62,3 +62,4 @@ No.| Problem Number | Problem Title
 57.|49             | Group Anagrams
 58.|73             | Set Matrix Zeroes
 59.|146            | LRU Cache
+60.|56             | Merge Intervals
