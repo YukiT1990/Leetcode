@@ -61,3 +61,4 @@ No.| Problem Number | Problem Title
 56.|954            | Array of Doubled Pairs
 57.|49             | Group Anagrams
 58.|73             | Set Matrix Zeroes
+59.|146            | LRU Cache
