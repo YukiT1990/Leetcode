@@ -68,3 +68,8 @@ No.| Problem Number | Problem Title
 63.|163            | Missing Ranges
 64.|276            | Paint Fence
 65.|170            | Two Sum III - Data structure design
+66.|76             | Minimum Window Substring
+67.|265            | Paint House II
+68.|217            | Contains Duplicate
+69.|219            | Contains Duplicate II
+70.|255            | Implement Stack using Queues
