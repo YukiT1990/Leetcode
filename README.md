@@ -73,3 +73,4 @@ No.| Problem Number | Problem Title
 68.|217            | Contains Duplicate
 69.|219            | Contains Duplicate II
 70.|255            | Implement Stack using Queues
+71.|303            | Range Sum Query - Immutable
