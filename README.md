@@ -84,3 +84,6 @@
 | 80. | 242            | Valid Anagram                                  |
 | 81. | 243            | Shortest Word Distance                         |
 | 82. | 246            | Strobogrammatic Number                         |
+| 83. | 252            | Meeting Rooms                                  |
+| 84. | 257            | Binary Tree Paths                              |
+| 85. | 258            | Add Digits                                     |
