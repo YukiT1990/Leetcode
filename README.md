@@ -77,5 +77,6 @@
 | 73. | 228            | Summary Ranges                                 |
 | 74. | 231            | Power of Two                                   |
 | 75. | 232            | Implement Queue using Stacks                   |
-| 76. | 234            | Palindrome Linked List                         |
+| 76. | 1448           | Count Good Nodes in Binary Tree                |
+| 77. | 234            | Palindrome Linked List                         |
 
