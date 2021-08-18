@@ -83,3 +83,4 @@
 | 79. | 237            | Delete Node in a Linked List                   |
 | 80. | 242            | Valid Anagram                                  |
 | 81. | 243            | Shortest Word Distance                         |
+| 82. | 246            | Strobogrammatic Number                         |
