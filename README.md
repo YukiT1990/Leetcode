@@ -87,3 +87,8 @@
 | 83. | 252            | Meeting Rooms                                  |
 | 84. | 257            | Binary Tree Paths                              |
 | 85. | 258            | Add Digits                                     |
+| 86. | 263            | Ugly Number                                    |
+| 87. | 91             | Decode Ways                                    |
+| 88. | 266            | Palindrome Permutation                         |
+| 89. | 268            | Missing Number                                 |
+| 90. | 270            | Closest Binary Search Tree Value               |
