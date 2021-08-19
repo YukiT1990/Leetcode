@@ -97,3 +97,4 @@
 | 93. | 290            | Word Pattern                                   |
 | 94. | 292            | Nim Game                                       |
 | 95. | 293            | Flip Game                                      |
+| 96. | 1339           | Maximum Product of Splitted Binary Tree        |
