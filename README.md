@@ -92,3 +92,4 @@
 | 88. | 266            | Palindrome Permutation                         |
 | 89. | 268            | Missing Number                                 |
 | 90. | 270            | Closest Binary Search Tree Value               |
+| 91. | 278            | First Bad Version                              |
