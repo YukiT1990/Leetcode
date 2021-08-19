@@ -93,3 +93,7 @@
 | 89. | 268            | Missing Number                                 |
 | 90. | 270            | Closest Binary Search Tree Value               |
 | 91. | 278            | First Bad Version                              |
+| 92. | 283            | Move Zeroes                                    |
+| 93. | 290            | Word Pattern                                   |
+| 94. | 292            | Nim Game                                       |
+| 95. | 293            | Flip Game                                      |
