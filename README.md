@@ -109,3 +109,5 @@
 | 106. | 367            | Valid Perfect Square                           |
 | 107. | 374            | Guess Number Higher or Lower                   |
 | 108. | 383            | Ransom Note                                    |
+| 109. | 36             | Valid Sudoku                                   |
+| 110. | 387            | First Unique Character in a String             |
