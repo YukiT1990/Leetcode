@@ -103,3 +103,6 @@
 | 100. | 344            | Reverse String                                 |
 | 101. | 345            | Reverse Vowels of a String                     |
 | 102. | 346            | Moving Average from Data Stream                |
+| 103. | 349            | Intersection of Two Arrays                     |
+| 104. | 350            | Intersection of Two Arrays II                  |
+| 105. | 359            | Logger Rate Limiter                            |
