@@ -106,3 +106,6 @@
 | 103. | 349            | Intersection of Two Arrays                     |
 | 104. | 350            | Intersection of Two Arrays II                  |
 | 105. | 359            | Logger Rate Limiter                            |
+| 106. | 367            | Valid Perfect Square                           |
+| 107. | 374            | Guess Number Higher or Lower                   |
+| 108. | 383            | Ransom Note                                    |
