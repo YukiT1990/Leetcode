@@ -101,3 +101,5 @@
 | 97.  | 326            | Power of Three                                 |
 | 98.  | 338            | Counting Bits                                  |
 | 100. | 344            | Reverse String                                 |
+| 101. | 345            | Reverse Vowels of a String                     |
+| 102. | 346            | Moving Average from Data Stream                |
