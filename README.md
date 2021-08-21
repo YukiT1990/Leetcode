@@ -121,3 +121,5 @@
 | 118. | 412            | Fizz Buzz                                      |
 | 119. | 414            | Third Maximum Number                           |
 | 120. | 415            | Add Strings                                    |
+| 121. | 422            | Valid Word Square                              |
+| 122. | 434            | Number of Segments in a String                 |
