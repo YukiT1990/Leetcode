@@ -123,3 +123,4 @@
 | 120. | 415            | Add Strings                                    |
 | 121. | 422            | Valid Word Square                              |
 | 122. | 434            | Number of Segments in a String                 |
+| 123. | 37             | Sudoku Solver                                  |
