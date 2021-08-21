@@ -116,3 +116,8 @@
 | 113. | 401            | Binary Watch                                   |
 | 114. | 404            | Sum of Left Leaves                             |
 | 115. | 405            | Convert a Number to Hexadecimal                |
+| 116. | 408            | Valid Word Abbreviation                        |
+| 117. | 409            | Longest Palindrome                             |
+| 118. | 412            | Fizz Buzz                                      |
+| 119. | 414            | Third Maximum Number                           |
+| 120. | 415            | Add Strings                                    |
