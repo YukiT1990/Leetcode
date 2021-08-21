@@ -111,3 +111,8 @@
 | 108. | 383            | Ransom Note                                    |
 | 109. | 36             | Valid Sudoku                                   |
 | 110. | 387            | First Unique Character in a String             |
+| 111. | 389            | Find the Difference                            |
+| 112. | 392            | Is Subsequence                                 |
+| 113. | 401            | Binary Watch                                   |
+| 114. | 404            | Sum of Left Leaves                             |
+| 115. | 405            | Convert a Number to Hexadecimal                |
