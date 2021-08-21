@@ -124,3 +124,5 @@
 | 121. | 422            | Valid Word Square                              |
 | 122. | 434            | Number of Segments in a String                 |
 | 123. | 37             | Sudoku Solver                                  |
+| 124. | 441            | Arranging Coins                                |
+| 125. | 448            | Find All Numbers Disappeared in an Array       |
