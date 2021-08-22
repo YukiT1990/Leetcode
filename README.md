@@ -126,3 +126,8 @@
 | 123. | 37             | Sudoku Solver                                  |
 | 124. | 441            | Arranging Coins                                |
 | 125. | 448            | Find All Numbers Disappeared in an Array       |
+| 126. | 453            | Minimum Moves to Equal Array Elements          |
+| 127. | 455            | Assign Cookies                                 |
+| 128. | 459            | Repeated Substring Pattern                     |
+| 129. | 461            | Hamming Distance                               |
+| 130. | 463            | Island Perimeter                               |
