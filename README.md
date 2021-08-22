@@ -131,3 +131,6 @@
 | 128. | 459            | Repeated Substring Pattern                     |
 | 129. | 461            | Hamming Distance                               |
 | 130. | 463            | Island Perimeter                               |
+| 131. | 850            | Rectangle Area II                              |
+| 132. | 476            | Number Complement                              |
+| 133. | 482            | License Key Formatting                         |
