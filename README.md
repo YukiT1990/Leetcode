@@ -134,3 +134,5 @@
 | 131. | 850            | Rectangle Area II                              |
 | 132. | 476            | Number Complement                              |
 | 133. | 482            | License Key Formatting                         |
+| 134. | 485            | Max Consecutive Ones                           |
+| 135. | 492            | Construct the Rectangle                        |
