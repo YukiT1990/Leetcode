@@ -136,3 +136,8 @@
 | 133. | 482            | License Key Formatting                         |
 | 134. | 485            | Max Consecutive Ones                           |
 | 135. | 492            | Construct the Rectangle                        |
+| 136. | 495            | Teemo Attacking                                |
+| 137. | 496            | Next Greater Element I                         |
+| 138. | 500            | Keyboard Row                                   |
+| 139. | 653            | Two Sum IV - Input is a BST                    |
+| 140. | 501            | Find Mode in Binary Search Tree                |
