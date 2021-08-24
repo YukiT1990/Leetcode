@@ -141,3 +141,8 @@
 | 138. | 500            | Keyboard Row                                   |
 | 139. | 653            | Two Sum IV - Input is a BST                    |
 | 140. | 501            | Find Mode in Binary Search Tree                |
+| 141. | 504            | Base 7                                         |
+| 142. | 506            | Relative Ranks                                 |
+| 143. | 507            | Perfect Number                                 |
+| 144. | 520            | Detect Capital                                 |
+| 145. | 521            | Longest Uncommon Subsequence I                 |
