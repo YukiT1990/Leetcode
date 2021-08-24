@@ -146,3 +146,5 @@
 | 143. | 507            | Perfect Number                                 |
 | 144. | 520            | Detect Capital                                 |
 | 145. | 521            | Longest Uncommon Subsequence I                 |
+| 146. | 537            | Complex Number Multiplication                  |
+| 147. | 261            | Graph Valid Tree                               |
