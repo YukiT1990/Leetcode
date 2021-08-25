@@ -151,3 +151,8 @@
 | 148. | 538            | Minimum Absolute Difference in BST             |
 | 149. | 541            | Reverse String II                              |
 | 150. | 543            | Diameter of Binary Tree                        |
+| 151. | 551            | Student Attendance Record I                    |
+| 152. | 557            | Reverse Words in a String III                  |
+| 153. | 561            | Array Partition I                              |
+| 154. | 563            | Binary Tree Tilt                               |
+| 155. | 566            | Reshape the Matrix                             |
