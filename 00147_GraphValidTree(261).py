@@ -1,5 +1,8 @@
 # 261. Graph Valid Tree
 
+# Reference
+# https://leetcode.com/problems/graph-valid-tree/discuss/695370/Python-Detect-Cycle-in-Undirected-Graph.-Link-Attached.
+
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
         if n == 1 and len(edges) == 0:

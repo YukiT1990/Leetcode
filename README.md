@@ -148,3 +148,6 @@
 | 145. | 521            | Longest Uncommon Subsequence I                 |
 | 146. | 537            | Complex Number Multiplication                  |
 | 147. | 261            | Graph Valid Tree                               |
+| 148. | 538            | Minimum Absolute Difference in BST             |
+| 149. | 541            | Reverse String II                              |
+| 150. | 543            | Diameter of Binary Tree                        |
