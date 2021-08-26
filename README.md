@@ -158,3 +158,6 @@
 | 155. | 566            | Reshape the Matrix                             |
 | 156. | 633            | Sum of Square Numbers                          |
 | 157. | 331            | Verify Preorder Serialization of a Binary Tree |
+| 158. | 572            | Subtree of Another Tree                        |
+| 159. | 575            | Distribute Candies                             |
+| 160. | 594            | Longest Harmonious Subsequence                 |
