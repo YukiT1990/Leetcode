@@ -157,3 +157,4 @@
 | 154. | 563            | Binary Tree Tilt                               |
 | 155. | 566            | Reshape the Matrix                             |
 | 156. | 633            | Sum of Square Numbers                          |
+| 157. | 331            | Verify Preorder Serialization of a Binary Tree |
