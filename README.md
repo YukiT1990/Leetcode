@@ -161,3 +161,8 @@
 | 158. | 572            | Subtree of Another Tree                        |
 | 159. | 575            | Distribute Candies                             |
 | 160. | 594            | Longest Harmonious Subsequence                 |
+| 161. | 598            | Range Addition II                              |
+| 162. | 599            | Minimum Index Sum of Two Lists                 |
+| 163. | 522            | Longest Uncommon Subsequence II                |
+| 164. | 604            | Design Compressed String Iterator              |
+| 165. | 605            | Can Place Flowers                              |
