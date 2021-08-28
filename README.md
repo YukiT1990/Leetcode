@@ -166,3 +166,8 @@
 | 163. | 522            | Longest Uncommon Subsequence II                |
 | 164. | 604            | Design Compressed String Iterator              |
 | 165. | 605            | Can Place Flowers                              |
+| 166. | 606            | Construct String from Binary Tree              |
+| 167. | 628            | Maximum Product of Three Numbers               |
+| 168. | 1235           | Maximum Profit in Job Scheduling               |
+| 169. | 637            | Average of Levels in Binary Tree               |
+| 170. | 643            | Maximum Average Subarray I                     |
