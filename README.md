@@ -171,3 +171,8 @@
 | 168. | 1235           | Maximum Profit in Job Scheduling               |
 | 169. | 637            | Average of Levels in Binary Tree               |
 | 170. | 643            | Maximum Average Subarray I                     |
+| 171. | 330            | Patching Array                                 |
+| 172. | 663            | Equal Tree Partition                           |
+| 173. | 645            | Set Mismatch                                   |
+| 174. | 657            | Robot Return to Origin                         |
+| 175. | 661            | Image Smoother                                 |
