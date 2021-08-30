@@ -176,3 +176,8 @@
 | 173. | 645            | Set Mismatch                                   |
 | 174. | 657            | Robot Return to Origin                         |
 | 175. | 661            | Image Smoother                                 |
+| 176. | 671            | Second Minimum Node In a Binary Tree           |
+| 177. | 674            | Longest Continuous Increasing Subsequence      |
+| 178. | 680            | Valid Palindrome II                            |
+| 179. | 682            | Baseball Game                                  |
+| 180. | 690            | Employee Importance                            |
