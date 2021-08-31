@@ -181,3 +181,8 @@
 | 178. | 680            | Valid Palindrome II                            |
 | 179. | 682            | Baseball Game                                  |
 | 180. | 690            | Employee Importance                            |
+| 181. | 693            | Binary Number with Alternating Bits            |
+| 182. | 696            | Count Binary Substrings                        |
+| 183. | 697            | Degree of an Array                             |
+| 184. | 716            | Max Stack                                      |
+| 185. | 153            | Find Minimum in Rotated Sorted Array           |
