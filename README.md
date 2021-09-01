@@ -186,3 +186,8 @@
 | 183. | 697            | Degree of an Array                             |
 | 184. | 716            | Max Stack                                      |
 | 185. | 153            | Find Minimum in Rotated Sorted Array           |
+| 186. | 565            | Array Nesting                                  |
+| 187. | 1120           | Maximum Average Subtree                        |
+| 188. | 717            | 1-bit and 2-bit Characters                     |
+| 189. | 724            | Find Pivot Index                               |
+| 190. | 728            | Self Dividing Numbers                          |
