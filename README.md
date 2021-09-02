@@ -191,3 +191,8 @@
 | 188. | 717            | 1-bit and 2-bit Characters                     |
 | 189. | 724            | Find Pivot Index                               |
 | 190. | 728            | Self Dividing Numbers                          |
+| 191. | 733            | Flood Fill                                     |
+| 192. | 95             | Unique Binary Search Trees II                  |
+| 193. | 734            | Sentence Similarity                            |
+| 194. | 709            | To Lower Case                                  |
+| 195. | 744            | Find Smallest Letter Greater Than Target       |
