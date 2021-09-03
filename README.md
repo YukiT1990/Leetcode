@@ -196,3 +196,8 @@
 | 193. | 734            | Sentence Similarity                            |
 | 194. | 709            | To Lower Case                                  |
 | 195. | 744            | Find Smallest Letter Greater Than Target       |
+| 196. | 746            | Min Cost Climbing Stairs                       |
+| 197. | 747            | Largest Number At Least Twice of Others        |
+| 198. | 587            | Erect the Fence                                |
+| 199. | 748            | Shortest Completing Word                       |
+| 200. | 760            | Find Anagram Mappings                          |
