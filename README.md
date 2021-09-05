@@ -210,3 +210,4 @@
 | 207. | 700            | Search in a Binary Search Tree                    |
 | 208. | 703            | Kth Largest Element in a Stream                   |
 | 209. | 704            | Binary Search                                     |
+| 210. | 899            | Orderly Queue                                     |
