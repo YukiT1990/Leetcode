@@ -206,3 +206,7 @@
 | 203. | 559            | Maximum Depth of N-ary Tree                       |
 | 204. | 589            | N-ary Tree Preorder Traversal                     |
 | 205. | 590            | N-ary Tree Postorder Traversal                    |
+| 206. | 766            | Toeplitz Matrix                                   |
+| 207. | 700            | Search in a Binary Search Tree                    |
+| 208. | 703            | Kth Largest Element in a Stream                   |
+| 209. | 704            | Binary Search                                     |
