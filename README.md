@@ -211,3 +211,5 @@
 | 208. | 703            | Kth Largest Element in a Stream                   |
 | 209. | 704            | Binary Search                                     |
 | 210. | 899            | Orderly Queue                                     |
+| 211. | 783            | Minimum Distance Between BST Nodes                |
+| 212. | 1629           | Slowest Key                                       |
