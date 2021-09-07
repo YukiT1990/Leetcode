@@ -216,3 +216,7 @@
 | 213. | 796            | Rotate String                                     |
 | 214. | 705            | Design HashSet                                    |
 | 215. | 706            | Design HashMap                                    |
+| 216. | 800            | Similar RGB Color                                 |
+| 217. | 804            | Unique Morse Code Words                           |
+| 218. | 806            | Number of Lines To Write String                   |
+| 219. | 812            | Largest Triangle Area                             |
