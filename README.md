@@ -220,3 +220,4 @@
 | 217. | 804            | Unique Morse Code Words                           |
 | 218. | 806            | Number of Lines To Write String                   |
 | 219. | 812            | Largest Triangle Area                             |
+| 220. | 206            | Reverse Linked List                               |
