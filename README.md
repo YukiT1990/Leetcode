@@ -213,3 +213,6 @@
 | 210. | 899            | Orderly Queue                                     |
 | 211. | 783            | Minimum Distance Between BST Nodes                |
 | 212. | 1629           | Slowest Key                                       |
+| 213. | 796            | Rotate String                                     |
+| 214. | 705            | Design HashSet                                    |
+| 215. | 706            | Design HashMap                                    |
