@@ -225,3 +225,4 @@
 | 222. | 821            | Shortest Distance to a Character                  |
 | 223. | 824            | Goat Latin                                        |
 | 224. | 830            | Positions of Large Groups                         |
+| 225. | 848            | Shifting Letters                                  |
