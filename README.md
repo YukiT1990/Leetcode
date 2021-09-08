@@ -221,3 +221,7 @@
 | 218. | 806            | Number of Lines To Write String                   |
 | 219. | 812            | Largest Triangle Area                             |
 | 220. | 206            | Reverse Linked List                               |
+| 221. | 819            | Most Common Word                                  |
+| 222. | 821            | Shortest Distance to a Character                  |
+| 223. | 824            | Goat Latin                                        |
+| 224. | 830            | Positions of Large Groups                         |
