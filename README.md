@@ -226,3 +226,7 @@
 | 223. | 824            | Goat Latin                                        |
 | 224. | 830            | Positions of Large Groups                         |
 | 225. | 848            | Shifting Letters                                  |
+| 226. | 832            | Flipping an Image                                 |
+| 227. | 836            | Rectangle Overlap                                 |
+| 228. | 844            | Backspace String Compare                          |
+| 229. | 852            | Peak Index in a Mountain Array                    |
