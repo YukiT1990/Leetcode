@@ -230,3 +230,5 @@
 | 227. | 836            | Rectangle Overlap                                 |
 | 228. | 844            | Backspace String Compare                          |
 | 229. | 852            | Peak Index in a Mountain Array                    |
+| 230. | 764            | Largest Plus Sign                                 |
+| 231. | 296            | Best Meeting Point                                |
