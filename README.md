@@ -232,3 +232,6 @@
 | 229. | 852            | Peak Index in a Mountain Array                    |
 | 230. | 764            | Largest Plus Sign                                 |
 | 231. | 296            | Best Meeting Point                                |
+| 232. | 859            | Buddy Strings                                     |
+| 233. | 860            | Lemonade Change                                   |
+| 234. | 867            | Transpose Matrix                                  |
