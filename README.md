@@ -235,3 +235,4 @@
 | 232. | 859            | Buddy Strings                                     |
 | 233. | 860            | Lemonade Change                                   |
 | 234. | 867            | Transpose Matrix                                  |
+| 235. | 446            | Arithmetic Slices II - Subsequence                |
