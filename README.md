@@ -236,3 +236,8 @@
 | 233. | 860            | Lemonade Change                                   |
 | 234. | 867            | Transpose Matrix                                  |
 | 235. | 446            | Arithmetic Slices II - Subsequence                |
+| 236. | 868            | Binary Gap                                        |
+| 237. | 872            | Leaf-Similar Trees                                |
+| 238. | 874            | Walking Robot Simulation                          |
+| 239. | 876            | Middle of the Linked List                         |
+| 240. | 224            | Basic Calculator                                  |
