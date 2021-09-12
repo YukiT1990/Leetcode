@@ -241,3 +241,4 @@
 | 238. | 874            | Walking Robot Simulation                          |
 | 239. | 876            | Middle of the Linked List                         |
 | 240. | 224            | Basic Calculator                                  |
+| 241. | 882            | Reachable Nodes In Subdivided Graph               |
