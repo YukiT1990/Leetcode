@@ -1,5 +1,8 @@
 # 882. Reachable Nodes In Subdivided Graph
 
+# Reference
+# https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/discuss/974190/Python-BFS-3-Steps
+
 class Solution:
     def reachableNodes(self, edges: List[List[int]], maxMoves: int, n: int) -> int:
         def bfs():
