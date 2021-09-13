@@ -242,3 +242,6 @@
 | 239. | 876            | Middle of the Linked List                         |
 | 240. | 224            | Basic Calculator                                  |
 | 241. | 882            | Reachable Nodes In Subdivided Graph               |
+| 242. | 883            | Projection Area of 3D Shapes                      |
+| 243. | 884            | Uncommon Words from Two Sentences                 |
+| 244. | 888            | Fair Candy Swap                                   |
