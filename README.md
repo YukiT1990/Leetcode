@@ -245,3 +245,4 @@
 | 242. | 883            | Projection Area of 3D Shapes                      |
 | 243. | 884            | Uncommon Words from Two Sentences                 |
 | 244. | 888            | Fair Candy Swap                                   |
+| 245. | 1189           | Maximum Number of Balloons                        |
