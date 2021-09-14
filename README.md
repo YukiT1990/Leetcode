@@ -246,3 +246,7 @@
 | 243. | 884            | Uncommon Words from Two Sentences                 |
 | 244. | 888            | Fair Candy Swap                                   |
 | 245. | 1189           | Maximum Number of Balloons                        |
+| 246. | 892            | Surface Area of 3D Shapes                         |
+| 247. | 896            | Monotonic Array                                   |
+| 248. | 905            | Sort Array By Parity                              |
+| 249. | 908            | Smallest Range I                                  |
