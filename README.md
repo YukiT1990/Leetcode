@@ -252,3 +252,4 @@
 | 249. | 908            | Smallest Range I                                  |
 | 250. | 917            | Reverse Only Letters                              |
 | 251. | 978            | Longest Turbulent Subarray                        |
+| 252. | 54             | Spiral Matrix                                     |
