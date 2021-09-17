@@ -254,3 +254,4 @@
 | 251. | 978            | Longest Turbulent Subarray                        |
 | 252. | 54             | Spiral Matrix                                     |
 | 253. | 774            | Minimize Max Distance to Gas Station              |
+| 254. | 914            | X of a Kind in a Deck of Cards                    |
