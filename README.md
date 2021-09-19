@@ -255,3 +255,9 @@
 | 252. | 54             | Spiral Matrix                                     |
 | 253. | 774            | Minimize Max Distance to Gas Station              |
 | 254. | 914            | X of a Kind in a Deck of Cards                    |
+| 255. | 282            | Expression Add Operators                          |
+| 256. | 922            | Sort Array By Parity II                           |
+| 257. | 925            | Long Pressed Name                                 |
+| 258. | 929            | Unique Email Addresses                            |
+| 259. | 933            | Number of Recent Calls                            |
+| 260. | 115            | Distinct Subsequences                             |
