@@ -261,3 +261,8 @@
 | 258. | 929            | Unique Email Addresses                            |
 | 259. | 933            | Number of Recent Calls                            |
 | 260. | 115            | Distinct Subsequences                             |
+| 261. | 937            | Reorder Data in Log Files                         |
+| 262. | 941            | Valid Mountain Array                              |
+| 263. | 942            | DI String Match                                   |
+| 264. | 944            | Delete Columns to Make Sorted                     |
+| 265. | 1275           | Find Winner on a Tic Tac Toe Game                 |
