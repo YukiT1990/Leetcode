@@ -266,3 +266,7 @@
 | 263. | 942            | DI String Match                                   |
 | 264. | 944            | Delete Columns to Make Sorted                     |
 | 265. | 1275           | Find Winner on a Tic Tac Toe Game                 |
+| 266. | 953            | Verifying an Alien Dictionary                     |
+| 267. | 961            | N-Repeated Element in Size 2N Array               |
+| 268. | 965            | Univalued Binary Tree                             |
+| 269. | 509            | Fibonacci Number                                  |
