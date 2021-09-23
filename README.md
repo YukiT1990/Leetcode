@@ -276,3 +276,9 @@
 | 273. | 993            | Cousins in Binary Tree                                         |
 | 274. | 999            | Available Captures for Rook                                    |
 | 275. | 1239           | Maximum Length of a Concatenated String with Unique Characters |
+| 276. | 1002           | Find Common Characters                                         |
+| 277. | 1005           | Maximize Sum Of Array After K Negations                        |
+| 278. | 1009           | Complement of Base 10 Integer                                  |
+| 279. | 1013           | Partition Array Into Three Parts With Equal Sum                |
+| 280. | 1328           | Break a Palindrome                                             |
+| 281. | 317            | Shortest Distance from All Buildings                           |
