@@ -285,3 +285,4 @@
 | 282. | 1064           | Fixed Point                                                    |
 | 283. | 1056           | Confusing Number                                               |
 | 284. | 1080           | Binary Prefix Divisible By 5                                   |
+| 285. | 1086           | High Five                                                      |
