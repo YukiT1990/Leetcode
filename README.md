@@ -282,3 +282,6 @@
 | 279. | 1013           | Partition Array Into Three Parts With Equal Sum                |
 | 280. | 1328           | Break a Palindrome                                             |
 | 281. | 317            | Shortest Distance from All Buildings                           |
+| 282. | 1064           | Fixed Point                                                    |
+| 283. | 1056           | Confusing Number                                               |
+| 284. | 1080           | Binary Prefix Divisible By 5                                   |
