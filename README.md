@@ -290,3 +290,4 @@
 | 287. | 1021           | Remove Outermost Parentheses                                   |
 | 288. | 1022           | Sum of Root To Leaf Binary Numbers                             |
 | 289. | 1085           | Sum of Digits in the Minimum Number                            |
+| 290. | 1293           | Shortest Path in a Grid with Obstacles Elimination             |
