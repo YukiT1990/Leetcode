@@ -286,3 +286,7 @@
 | 283. | 1056           | Confusing Number                                               |
 | 284. | 1080           | Binary Prefix Divisible By 5                                   |
 | 285. | 1086           | High Five                                                      |
+| 286. | 1065           | Index Pairs of a String                                        |
+| 287. | 1021           | Remove Outermost Parentheses                                   |
+| 288. | 1022           | Sum of Root To Leaf Binary Numbers                             |
+| 289. | 1085           | Sum of Digits in the Minimum Number                            |
