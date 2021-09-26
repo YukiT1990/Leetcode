@@ -295,3 +295,4 @@
 | 292. | 1025           | Divisor Game                                                   |
 | 293. | 1118           | Number of Days in a Month                                      |
 | 294. | 1119           | Remove Vowels from a String                                    |
+| 295. | 782            | Transform to Chessboard                                        |
