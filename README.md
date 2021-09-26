@@ -291,3 +291,7 @@
 | 288. | 1022           | Sum of Root To Leaf Binary Numbers                             |
 | 289. | 1085           | Sum of Digits in the Minimum Number                            |
 | 290. | 1293           | Shortest Path in a Grid with Obstacles Elimination             |
+| 291. | 1099           | Two Sum Less Than K                                            |
+| 292. | 1025           | Divisor Game                                                   |
+| 293. | 1118           | Number of Days in a Month                                      |
+| 294. | 1119           | Remove Vowels from a String                                    |
