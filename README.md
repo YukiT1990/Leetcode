@@ -297,3 +297,6 @@
 | 294. | 1119           | Remove Vowels from a String                                    |
 | 295. | 782            | Transform to Chessboard                                        |
 | 296. | 1134           | Armstrong Number                                               |
+| 297. | 1030           | Matrix Cells in Distance Order                                 |
+| 298. | 1133           | Largest Unique Number                                          |
+| 299. | 1150           | Check If a Number Is Majority Element in a Sorted Array        |
