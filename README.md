@@ -300,3 +300,4 @@
 | 297. | 1030           | Matrix Cells in Distance Order                                 |
 | 298. | 1133           | Largest Unique Number                                          |
 | 299. | 1150           | Check If a Number Is Majority Element in a Sorted Array        |
+| 300. | 1160           | Find Words That Can Be Formed by Characters                    |
