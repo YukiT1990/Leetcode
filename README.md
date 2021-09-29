@@ -305,3 +305,5 @@
 | 302. | 1165           | Single-Row Keyboard                                            |
 | 303. | 1046           | Last Stone Weight                                              |
 | 304. | 1047           | Remove All Adjacent Duplicates In String                       |
+| 305. | 725            | Split Linked List in Parts                                     |
+| 306. | 325            | Maximum Size Subarray Sum Equals k                             |
