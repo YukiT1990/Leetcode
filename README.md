@@ -301,3 +301,7 @@
 | 298. | 1133           | Largest Unique Number                                          |
 | 299. | 1150           | Check If a Number Is Majority Element in a Sorted Array        |
 | 300. | 1160           | Find Words That Can Be Formed by Characters                    |
+| 301. | 1037           | Valid Boomerang                                                |
+| 302. | 1165           | Single-Row Keyboard                                            |
+| 303. | 1046           | Last Stone Weight                                              |
+| 304. | 1047           | Remove All Adjacent Duplicates In String                       |
