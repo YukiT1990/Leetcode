@@ -307,3 +307,6 @@
 | 304. | 1047           | Remove All Adjacent Duplicates In String                       |
 | 305. | 725            | Split Linked List in Parts                                     |
 | 306. | 325            | Maximum Size Subarray Sum Equals k                             |
+| 307. | 1180           | Count Substrings with Only One Distinct Letter                 |
+| 308. | 1051           | Height Checker                                                 |
+| 309. | 1196           | How Many Apples Can You Put into the Basket                    |
