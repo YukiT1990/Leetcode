@@ -311,3 +311,8 @@
 | 308. | 1051           | Height Checker                                                 |
 | 309. | 1196           | How Many Apples Can You Put into the Basket                    |
 | 310. | 698            | Partition to K Equal Sum Subsets                               |
+| 311. | 1071           | Greatest Common Divisor of Strings                             |
+| 312. | 1143           | Longest Common Subsequence                                     |
+| 313. | 1213           | Intersection of Three Sorted Arrays                            |
+| 314. | 1078           | Occurrences After Bigram                                       |
+| 315. | 1228           | Missing Number In Arithmetic Progression                       |
