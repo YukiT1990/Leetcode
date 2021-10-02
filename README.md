@@ -316,3 +316,8 @@
 | 313. | 1213           | Intersection of Three Sorted Arrays                            |
 | 314. | 1078           | Occurrences After Bigram                                       |
 | 315. | 1228           | Missing Number In Arithmetic Progression                       |
+| 316. | 1089           | Duplicate Zeros                                                |
+| 317. | 174            | Dungeon Game                                                   |
+| 318. | 1243           | Array Transformation                                           |
+| 319. | 1103           | Distribute Candies to People                                   |
+| 320. | 1271           | Hexspeak                                                       |
