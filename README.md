@@ -321,3 +321,8 @@
 | 318. | 1243           | Array Transformation                                           |
 | 319. | 1103           | Distribute Candies to People                                   |
 | 320. | 1271           | Hexspeak                                                       |
+| 321. | 55             | Jump Game                                                      |
+| 322. | 1619           | Mean of Array After Removing Some Elements                     |
+| 323. | 1122           | Relative Sort Array                                            |
+| 324. | 1287           | Element Appearing More Than 25% In Sorted Array                |
+| 325. | 1128           | Number of Equivalent Domino Pairs                              |
