@@ -326,3 +326,8 @@
 | 323. | 1122           | Relative Sort Array                                            |
 | 324. | 1287           | Element Appearing More Than 25% In Sorted Array                |
 | 325. | 1128           | Number of Equivalent Domino Pairs                              |
+| 326. | 1299           | Replace Elements with Greatest Element on Right Side           |
+| 327. | 1331           | Rank Transform of an Array                                     |
+| 328. | 1154           | Day of the Year                                                |
+| 329. | 1935           | Maximum Number of Words You Can Type                           |
+| 330. | 1360           | Number of Days Between Two Dates                               |
