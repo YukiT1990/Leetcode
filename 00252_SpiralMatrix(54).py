@@ -13,3 +13,5 @@ class Solution:
         
         return result
         
+# In addition, use * that allows you to unpack the list and pass its elements to the function.
+# https://note.nkmk.me/en/python-list-transpose/

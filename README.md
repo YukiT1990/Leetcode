@@ -331,3 +331,8 @@
 | 328. | 1154           | Day of the Year                                                |
 | 329. | 1935           | Maximum Number of Words You Can Type                           |
 | 330. | 1360           | Number of Days Between Two Dates                               |
+| 331. | 1175           | Prime Arrangements                                             |
+| 332. | 1176           | Diet Plan Performance                                          |
+| 333. | 1428           | Leftmost Column with at Least a One                            |
+| 334. | 1507           | Reformat Date                                                  |
+| 335. | 1184           | Distance Between Bus Stops                                     |
