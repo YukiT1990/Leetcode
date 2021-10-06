@@ -336,3 +336,8 @@
 | 333. | 1428           | Leftmost Column with at Least a One                            |
 | 334. | 1507           | Reformat Date                                                  |
 | 335. | 1184           | Distance Between Bus Stops                                     |
+| 336. | 1185           | Day of the Week                                                |
+| 337. | 442            | Find All Duplicates in an Array                                |
+| 338. | 1550           | Three Consecutive Odds                                         |
+| 339. | 1957           | Delete Characters to Make Fancy String                         |
+| 340. | 1200           | Minimum Absolute Difference                                    |
