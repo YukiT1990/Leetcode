@@ -341,3 +341,8 @@
 | 338. | 1550           | Three Consecutive Odds                                         |
 | 339. | 1957           | Delete Characters to Make Fancy String                         |
 | 340. | 1200           | Minimum Absolute Difference                                    |
+| 341. | 79             | Word Search                                                    |
+| 342. | 1207           | Unique Number of Occurrences                                   |
+| 343. | 1217           | Minimum Cost to Move Chips to The Same Position                |
+| 344. | 1427           | Perform String Shifts                                          |
+| 345. | 1232           | Check If It Is a Straight Line                                 |
