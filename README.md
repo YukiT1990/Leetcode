@@ -346,3 +346,4 @@
 | 343. | 1217           | Minimum Cost to Move Chips to The Same Position                |
 | 344. | 1427           | Perform String Shifts                                          |
 | 345. | 1232           | Check If It Is a Straight Line                                 |
+| 346. | 208            | Implement Trie (Prefix Tree)                                   |
