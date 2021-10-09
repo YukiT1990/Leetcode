@@ -347,3 +347,7 @@
 | 344. | 1427           | Perform String Shifts                                          |
 | 345. | 1232           | Check If It Is a Straight Line                                 |
 | 346. | 208            | Implement Trie (Prefix Tree)                                   |
+| 347. | 212            | Word Search II                                                 |
+| 348. | 1252           | Cells with Odd Values in a Matrix                              |
+| 349. | 1260           | Shift 2D Grid                                                  |
+| 350. | 1426           | Counting Elements                                              |
