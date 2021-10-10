@@ -351,3 +351,8 @@
 | 348. | 1252           | Cells with Odd Values in a Matrix                              |
 | 349. | 1260           | Shift 2D Grid                                                  |
 | 350. | 1426           | Counting Elements                                              |
+| 351. | 1266           | Minimum Time Visiting All Points                               |
+| 352. | 1290           | Convert Binary Number in a Linked List to Integer              |
+| 353. | 1295           | Find Numbers with Even Number of Digits                        |
+| 354. | 1304           | Find N Unique Integers Sum up to Zero                          |
+| 355. | 201            | Bitwise AND of Numbers Range                                   |
