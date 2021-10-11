@@ -356,3 +356,8 @@
 | 353. | 1295           | Find Numbers with Even Number of Digits                        |
 | 354. | 1304           | Find N Unique Integers Sum up to Zero                          |
 | 355. | 201            | Bitwise AND of Numbers Range                                   |
+| 356. | 543            | Diameter of Binary Tree                                        |
+| 357. | 1216           | Valid Palindrome III                                           |
+| 358. | 1309           | Decrypt String from Alphabet to Integer Mapping                |
+| 359. | 1317           | Convert Integer to the Sum of Two No-Zero Integers             |
+| 360. | 1323           | Maximum 69 Number                                              |
