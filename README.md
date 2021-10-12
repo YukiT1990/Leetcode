@@ -361,3 +361,4 @@
 | 358. | 1309           | Decrypt String from Alphabet to Integer Mapping                |
 | 359. | 1317           | Convert Integer to the Sum of Two No-Zero Integers             |
 | 360. | 1323           | Maximum 69 Number                                              |
+| 361. | 1332           | Remove Palindromic Subsequences                                |
