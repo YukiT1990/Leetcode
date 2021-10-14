@@ -363,3 +363,4 @@
 | 360. | 1323           | Maximum 69 Number                                              |
 | 361. | 1332           | Remove Palindromic Subsequences                                |
 | 362. | 1008           | Construct Binary Search Tree from Preorder Traversal           |
+| 363. | 279            | Perfect Squares                                                |
