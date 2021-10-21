@@ -370,3 +370,4 @@
 | 367. | 1356           | Sort Integers by The Number of 1 Bits                          |
 | 368. | 1337           | The K Weakest Rows in a Matrix                                 |
 | 369. | 151            | Reverse Words in a String                                      |
+| 370. | 380            | Insert Delete GetRandom O(1)                                   |
