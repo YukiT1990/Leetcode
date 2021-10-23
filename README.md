@@ -372,3 +372,4 @@
 | 369. | 151            | Reverse Words in a String                                      |
 | 370. | 380            | Insert Delete GetRandom O(1)                                   |
 | 371. | 451            | Sort Characters By Frequency                                   |
+| 372. | 154            | Find Minimum in Rotated Sorted Array II                        |
