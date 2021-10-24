@@ -373,3 +373,4 @@
 | 370. | 380            | Insert Delete GetRandom O(1)                                   |
 | 371. | 451            | Sort Characters By Frequency                                   |
 | 372. | 154            | Find Minimum in Rotated Sorted Array II                        |
+| 373. | 222            | Count Complete Tree Nodes                                      |
