@@ -374,3 +374,4 @@
 | 371. | 451            | Sort Characters By Frequency                                   |
 | 372. | 154            | Find Minimum in Rotated Sorted Array II                        |
 | 373. | 222            | Count Complete Tree Nodes                                      |
+| 374. | 1346           | Check If N and Its Double Exist                                |
