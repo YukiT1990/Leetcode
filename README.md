@@ -379,3 +379,4 @@
 | 376. | 75             | Sort Colors                                                    |
 | 377. | 15             | 3Sum                                                           |
 | 378. | 994            | Rotting Oranges                                                |
+| 379. | 1044           | Longest Duplicate Substring                                    |
