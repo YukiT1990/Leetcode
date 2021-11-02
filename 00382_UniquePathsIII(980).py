@@ -1,5 +1,8 @@
 # 980. Unique Paths III
 
+# Reference
+# https://leetcode.com/problems/unique-paths-iii/discuss/1535158/Python-Backtracking%3A-Easy-to-understand-with-Explanation
+
 class Solution:
     def uniquePathsIII(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
