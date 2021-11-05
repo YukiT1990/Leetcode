@@ -11,8 +11,16 @@ class Solution:
         #     if required > n:
         #         return i - 1
         #     sum_rows.append(required)
-        
+
+        # 868 ms	14.1 MB
+        # i = 1
+        # while n >= i:
+        #     n -= i
+        #     i += 1
+        # return i - 1
+
         # mathematical solution
         # 28 ms	14.3 MB
+        # Reference
+        # https://leetcode.com/problems/arranging-coins/discuss/374111/8-ms-SUPER-99.81-Python-MATH-FULLY-EXPLAINED
         return (-1 + int(sqrt(1 + 8 * n))) // 2
-        
