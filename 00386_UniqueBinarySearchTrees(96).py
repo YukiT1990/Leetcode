@@ -1,5 +1,8 @@
 # 96. Unique Binary Search Trees
 
+# Reference
+# https://leetcode.com/problems/unique-binary-search-trees/discuss/703644/PythonEasy-DP-Solution-Explained-By-Someone-Who-Used-To-Struggle-To-Understand-DP
+
 class Solution:
     def numTrees(self, n: int) -> int:
         dp = [0] * (n+1)
