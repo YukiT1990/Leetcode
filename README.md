@@ -386,3 +386,4 @@
 | 383. | 129            | Sum Root to Leaf Numbers                                       |
 | 384. | 260            | Single Number III                                              |
 | 385. | 43             | Multiply Strings                                               |
+| 386. | 96             | Unique Binary Search Trees                                     |
