@@ -387,4 +387,5 @@
 | 384. | 260            | Single Number III                                              |
 | 385. | 43             | Multiply Strings                                               |
 | 386. | 96             | Unique Binary Search Trees                                     |
-| 387. | 1413           | Minimum Value to Get Positive Step by Step Sum                 |
+| 387. | 1178           | Number of Valid Words for Each Puzzle                          |
+| 388. | 1413           | Minimum Value to Get Positive Step by Step Sum                 |
