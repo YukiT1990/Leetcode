@@ -390,3 +390,4 @@
 | 387. | 1178           | Number of Valid Words for Each Puzzle                          |
 | 388. | 1413           | Minimum Value to Get Positive Step by Step Sum                 |
 | 389. | 739            | Daily Temperatures                                             |
+| 390. | 1286           | Iterator for Combination                                       |
