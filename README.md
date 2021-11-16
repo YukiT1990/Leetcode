@@ -391,3 +391,5 @@
 | 388. | 1413           | Minimum Value to Get Positive Step by Step Sum                 |
 | 389. | 739            | Daily Temperatures                                             |
 | 390. | 1286           | Iterator for Combination                                       |
+| 391. | 368            | Largest Divisible Subset                                       |
+| 392. | 668            | Kth Smallest Number in Multiplication Table                    |
