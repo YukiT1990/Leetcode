@@ -1,5 +1,8 @@
 # 540. Single Element in a Sorted Array
 
+# Reference
+# https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/1587293/Python-3-Simple-Approaches-with-Explanation
+
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
         # nums_odd = [nums[x] for x in range(0, len(nums), 2)]
