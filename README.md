@@ -394,3 +394,4 @@
 | 391. | 368            | Largest Divisible Subset                                       |
 | 392. | 668            | Kth Smallest Number in Multiplication Table                    |
 | 393. | 62             | Unique Paths                                                   |
+| 394. | 540            | Single Element in a Sorted Array                               |
