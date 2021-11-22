@@ -396,3 +396,4 @@
 | 393. | 62             | Unique Paths                                                   |
 | 394. | 540            | Single Element in a Sorted Array                               |
 | 395. | 106            | Construct Binary Tree from Inorder and Postorder Traversal     |
+| 396. | 450            | Delete Node in a BST                                           |
