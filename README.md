@@ -397,3 +397,4 @@
 | 394. | 540            | Single Element in a Sorted Array                               |
 | 395. | 106            | Construct Binary Tree from Inorder and Postorder Traversal     |
 | 396. | 450            | Delete Node in a BST                                           |
+| 397. | 952            | Largest Component Size by Common Factor                        |
