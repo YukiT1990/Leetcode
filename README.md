@@ -404,3 +404,4 @@
 | 401. | 198            | House Robber                                                   |
 | 402. | 328            | Odd Even Linked List                                           |
 | 403. | 152            | Maximum Product Subarray                                       |
+| 404. | 1032           | Stream of Characters                                           |
