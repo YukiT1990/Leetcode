@@ -406,3 +406,4 @@
 | 403. | 152            | Maximum Product Subarray                                       |
 | 404. | 1032           | Stream of Characters                                           |
 | 405. | 337            | House Robber III                                               |
+| 406. | 1351           | Count Negative Numbers in a Sorted Matrix                      |
