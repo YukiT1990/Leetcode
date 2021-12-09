@@ -1,5 +1,8 @@
 # 1306. Jump Game III
 
+# Reference
+# https://leetcode.com/problems/jump-game-iii/discuss/1128444/Python3-Simple-BFS-O(N)-Time-and-Space-Solution
+
 class Solution:
     def canReach(self, arr: List[int], start: int) -> bool:
         q = deque()
