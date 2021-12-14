@@ -412,3 +412,4 @@
 | 409. | 878            | Nth Magical Number                                             |
 | 410. | 416            | Partition Equal Subset Sum                                     |
 | 411. | 1446           | Consecutive Characters                                         |
+| 412. | 938            | Range Sum of BST                                               |
