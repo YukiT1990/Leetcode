@@ -1,5 +1,8 @@
 # 147. Insertion Sort List
 
+# Reference
+# https://leetcode.com/problems/insertion-sort-list/discuss/801347/Python3-and-Java-4-pointers-solution
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
