@@ -414,3 +414,4 @@
 | 411. | 1446           | Consecutive Characters                                         |
 | 412. | 938            | Range Sum of BST                                               |
 | 413. | 147            | Insertion Sort List                                            |
+| 414. | 310            | Minimum Height Trees                                           |
