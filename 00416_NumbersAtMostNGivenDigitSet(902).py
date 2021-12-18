@@ -1,5 +1,8 @@
 # 902. Numbers At Most N Given Digit Set
 
+# Reference
+# https://leetcode.com/problems/numbers-at-most-n-given-digit-set/discuss/943667/Python-confidence-destroyer
+
 class Solution:
     def atMostNGivenDigitSet(self, digits: List[str], n: int) -> int:
         # a. At first we find out all the numbers that can be constructed that have length of less than n.
