@@ -417,3 +417,4 @@
 | 414. | 310            | Minimum Height Trees                                           |
 | 415. | 221            | Maximal Square                                                 |
 | 416. | 902            | Numbers At Most N Given Digit Set                              |
+| 417. | 394            | Decode String                                                  |
