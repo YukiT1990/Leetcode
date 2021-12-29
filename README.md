@@ -422,3 +422,4 @@
 | 419. | 210            | Course Schedule II                                             |
 | 420. | 227            | Basic Calculator II                                            |
 | 421. | 973            | K Closest Points to Origin                                     |
+| 422. | 116            | Populating Next Right Pointers in Each Node                    |
