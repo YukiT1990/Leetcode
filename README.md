@@ -423,3 +423,4 @@
 | 420. | 227            | Basic Calculator II                                            |
 | 421. | 973            | K Closest Points to Origin                                     |
 | 422. | 116            | Populating Next Right Pointers in Each Node                    |
+| 423. | 1015           | Smallest Integer Divisible by K                                |
