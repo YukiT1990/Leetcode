@@ -425,3 +425,4 @@
 | 422. | 116            | Populating Next Right Pointers in Each Node                    |
 | 423. | 1015           | Smallest Integer Divisible by K                                |
 | 424. | 1026           | Maximum Difference Between Node and Ancestor                   |
+| 425. | 312            | Burst Balloons                                                 |
