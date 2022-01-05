@@ -427,3 +427,4 @@
 | 424. | 1026           | Maximum Difference Between Node and Ancestor                   |
 | 425. | 312            | Burst Balloons                                                 |
 | 426. | 1010           | Pairs of Songs With Total Durations Divisible by 60            |
+| 427. | 131            | Palindrome Partitioning                                        |
