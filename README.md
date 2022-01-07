@@ -429,3 +429,4 @@
 | 426. | 1010           | Pairs of Songs With Total Durations Divisible by 60            |
 | 427. | 131            | Palindrome Partitioning                                        |
 | 428. | 1094           | Car Pooling                                                    |
+| 429. | 382            | Linked List Random Node                                        |
